@@ -1,0 +1,208 @@
+[
+  {
+    "id": "1",
+    "name": "Nasi Goreng Spesial",
+    "category": "Utama",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&fit=crop",
+    "cookTime": "20 Menit",
+    "rating": 4.8,
+    "ingredients": [
+      "2 piring nasi putih dingin",
+      "2 siung bawang putih, cincang",
+      "3 butir bawang merah, iris",
+      "1 sdm kecap manis",
+      "1 butir telur",
+      "Garam dan merica secukupnya"
+    ],
+    "instructions": [
+      "Panaskan minyak, tumis bawang putih dan merah hingga harum.",
+      "Masukkan telur, orak-arik hingga matang.",
+      "Tambahkan nasi, kecap manis, garam, dan merica. Aduk rata.",
+      "Masak hingga bumbu meresap. Angkat dan sajikan."
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Rendang Daging Sapi",
+    "category": "Lauk Pauk",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400&fit=crop",
+    "cookTime": "4 Jam",
+    "rating": 5.0,
+    "ingredients": [
+      "500g daging sapi, potong",
+      "1 liter santan kelapa",
+      "2 lembar daun jeruk",
+      "1 batang serai, memarkan",
+      "Bumbu halus (bawang merah, putih, cabai, jahe, kunyit)"
+    ],
+    "instructions": [
+      "Rebus santan bersama bumbu halus, daun jeruk, dan serai sambil diaduk.",
+      "Setelah mendidih, masukkan daging sapi.",
+      "Masak dengan api kecil sambil terus diaduk perlahan hingga santan menyusut dan daging empuk.",
+      "Setelah berminyak dan kering, angkat dan sajikan."
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Sate Ayam Madura",
+    "category": "Lauk Pauk",
+    "image": "https://images.unsplash.com/photo-1529543544282-ea669407fca3?w=400&fit=crop",
+    "cookTime": "45 Menit",
+    "rating": 4.7,
+    "ingredients": [
+      "500g daging ayam fillet, potong dadu",
+      "Kecap manis secukupnya",
+      "Bumbu kacang (kacang tanah goreng, bawang putih, cabai)",
+      "Tusuk sate"
+    ],
+    "instructions": [
+      "Tusuk daging ayam pada tusuk sate.",
+      "Lumuri dengan sedikit bumbu kacang dan kecap manis.",
+      "Bakar sate hingga matang sambil dibolak-balik.",
+      "Sajikan sate dengan sisa bumbu kacang dan lontong."
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Soto Ayam Lamongan",
+    "category": "Berkuah",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&fit=crop",
+    "cookTime": "1 Jam",
+    "rating": 4.9,
+    "ingredients": [
+      "1 ekor ayam, potong-potong",
+      "2 liter air",
+      "Bumbu halus (bawang putih, kunyit, jahe, kemiri)",
+      "Bihun, kol iris, telur rebus, seledri"
+    ],
+    "instructions": [
+      "Rebus ayam hingga empuk, lalu goreng sebentar dan suwir-suwir.",
+      "Tumis bumbu halus, masukkan ke dalam kaldu rebusan ayam.",
+      "Tata bihun, kol, suwiran ayam, dan telur di mangkuk.",
+      "Tuangkan kuah soto panas dan sajikan dengan sambal."
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Gado-Gado",
+    "category": "Salad",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&fit=crop",
+    "cookTime": "30 Menit",
+    "rating": 4.6,
+    "ingredients": [
+      "Sayuran rebus (kangkung, tauge, kacang panjang)",
+      "Tahu dan tempe goreng",
+      "Telur rebus",
+      "Bumbu kacang (kacang tanah, gula merah, asam jawa)"
+    ],
+    "instructions": [
+      "Siapkan sayuran yang sudah direbus di piring.",
+      "Tambahkan irisan tahu, tempe, dan telur rebus.",
+      "Siram dengan bumbu kacang secukupnya.",
+      "Taburi bawang goreng dan kerupuk emping sebelum disajikan."
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Pempek Palembang",
+    "category": "Camilan",
+    "image": "https://images.unsplash.com/photo-1555126634-323283e090fa?w=400&fit=crop",
+    "cookTime": "1.5 Jam",
+    "rating": 4.8,
+    "ingredients": [
+      "500g daging ikan tenggiri giling",
+      "300g tepung sagu",
+      "100ml air es",
+      "Garam dan penyedap",
+      "Cuko (gula merah, asam jawa, cabai, ebi)"
+    ],
+    "instructions": [
+      "Campur ikan, air es, dan garam hingga mengental.",
+      "Masukkan tepung sagu, uleni ringan hingga bisa dibentuk.",
+      "Bentuk pempek, lalu rebus hingga mengapung.",
+      "Goreng pempek dan sajikan bersama cuko hangat."
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Opor Ayam",
+    "category": "Lauk Pauk",
+    "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=400&fit=crop",
+    "cookTime": "45 Menit",
+    "rating": 4.5,
+    "ingredients": [
+      "1 ekor ayam kampung, potong-potong",
+      "500ml santan cair",
+      "200ml santan kental",
+      "Bumbu kuning (bawang merah, putih, kunyit, ketumbar)"
+    ],
+    "instructions": [
+      "Tumis bumbu kuning hingga harum dan matang.",
+      "Masukkan ayam, aduk hingga berubah warna.",
+      "Tuangkan santan cair, masak hingga ayam empuk.",
+      "Tambahkan santan kental, didihkan sebentar lalu angkat."
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Bakso Sapi Kuah",
+    "category": "Berkuah",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400&fit=crop",
+    "cookTime": "2 Jam",
+    "rating": 4.9,
+    "ingredients": [
+      "500g daging sapi giling",
+      "100g tepung kanji",
+      "Bawang putih goreng yang dihaluskan",
+      "Kuah kaldu tulang sapi",
+      "Mie kuning, bihun, sawi hijau"
+    ],
+    "instructions": [
+      "Campur daging sapi, tepung kanji, dan bumbu. Bentuk bulat-bulat.",
+      "Rebus dalam air mendidih hingga mengapung, tiriskan.",
+      "Buat kuah dengan merebus tulang sapi dan bawang putih.",
+      "Tata mie dan bakso di mangkuk, siram dengan kuah panas."
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Gudeg Jogja",
+    "category": "Utama",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&fit=crop",
+    "cookTime": "3 Jam",
+    "rating": 4.6,
+    "ingredients": [
+      "1kg nangka muda, potong dadu",
+      "500ml santan",
+      "3 lembar daun jati (untuk warna)",
+      "Gula aren merah",
+      "Bumbu halus (bawang merah, putih, ketumbar, kemiri)"
+    ],
+    "instructions": [
+      "Alasi panci dengan daun jati.",
+      "Masukkan nangka muda, bumbu halus, dan santan.",
+      "Masak dengan api sangat kecil hingga santan mengering dan nangka empuk kemerahan.",
+      "Sajikan bersama nasi, krecek, dan telur rebus."
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Rawon Jawa Timur",
+    "category": "Berkuah",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=400&fit=crop",
+    "cookTime": "2 Jam",
+    "rating": 4.7,
+    "ingredients": [
+      "500g daging sapi sandung lamur",
+      "4 buah kluwek, ambil isinya dan rendam air panas",
+      "Bumbu halus (bawang merah, putih, kunyit, jahe)",
+      "Tauge pendek, telur asin, kerupuk"
+    ],
+    "instructions": [
+      "Rebus daging sapi hingga setengah empuk, potong dadu. Simpan kaldunya.",
+      "Tumis bumbu halus dan kluwek hingga harum.",
+      "Masukkan tumisan ke dalam rebusan daging sapi.",
+      "Masak hingga daging benar-benar empuk dan bumbu meresap. Sajikan."
+    ]
+  }
+]
